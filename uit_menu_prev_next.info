@@ -1,0 +1,6 @@
+name        = Menu Previous Next
+description = Provide Previous / Next navigation for menus
+core        = 7.x
+version     = 7.x-1.0-dev
+package = University IT
+configure   = admin/config/content/uit_menu_prev_next
